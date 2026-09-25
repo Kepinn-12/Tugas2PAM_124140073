@@ -34,8 +34,8 @@ fun App() {
         ) {
 
             Text(
-                text = "News Feed",
-                style = MaterialTheme.typography.headlineMedium
+                text = "News Feed Simulator",
+                style = MaterialTheme.typography.headlineSmall
             )
 
             Text(
